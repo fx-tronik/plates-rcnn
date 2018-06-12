@@ -1,0 +1,4 @@
+__pycache__/*
+*.jpg
+*.h5
+*.hdf5
